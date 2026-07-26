@@ -31,14 +31,14 @@ The dashboard provides HR professionals and business stakeholders with a compreh
 
 ## 📊 Key KPIs
 
-| KPI | Value |
-|------|--------|
-| Employee Count | 1K |
-| Active Employees | 1K |
-| Attrition Count | 233 |
-| Attrition Rate | 16.4% |
-| Average Age | 36.93 Years |
-| Average Experience | 11.29 Years |
+| KPI 
+
+| Employee Count 
+| Active Employees 
+| Attrition Count 
+| Attrition Rate 
+| Average Age 
+| Average Experience 
 
 ---
 
